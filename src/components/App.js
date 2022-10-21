@@ -3,7 +3,11 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="main"></div>
+    <div id="main">
+    <h1 id="project-name"> Render Multiple component </h1>
+   <p id="project-description">multiple tag in one parent tag</p>
+    
+    </div>
   )
 }
 
